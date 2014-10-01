@@ -1,0 +1,12 @@
+C:\Art\Test1\Temp\bin\Release\Assembly-CSharp.dll
+C:\Art\Test1\Temp\bin\Release\Assembly-CSharp.pdb
+C:\Art\Test1\Temp\bin\Release\Assembly-UnityScript-firstpass.dll
+C:\Art\Test1\Temp\bin\Release\UnityEditor.dll
+C:\Art\Test1\Temp\bin\Release\UnityEngine.dll
+C:\Art\Test1\Temp\bin\Release\Mono.Cecil.dll
+C:\Art\Test1\Temp\bin\Release\nunit.framework.dll
+C:\Art\Test1\Temp\bin\Release\ICSharpCode.NRefactory.dll
+C:\Art\Test1\Temp\bin\Release\Assembly-CSharp-firstpass.pdb
+C:\Art\Test1\obj\Release\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Art\Test1\obj\Release\Assembly-CSharp.dll
+C:\Art\Test1\obj\Release\Assembly-CSharp.pdb
